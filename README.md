@@ -1,4 +1,4 @@
-# NK-N9H30
+# NK-N9H30(rt-thread-n9h30-prj)
 ## 1. Introduction
 Nuvoton offers HMI platforms which are embedded with Nuvoton N9H MPU.  The N9H series with ARM926EJ-S core can operate at up to 300 MHz and can drive up to 1024x768 pixels in parallel port. It integrated TFT LCD controller and 2D graphics accelerator, up to 16 million colors (24-bit) LCD screen output, and provides high resolution and high chroma to deliver gorgeous display effects. It embedded up to 64 MB DDR memory, along with ample hardware storage and computing space for excellent design flexibility.
 
@@ -94,3 +94,6 @@ You can use Tera Term terminate emulator (or other software) to type commands of
 * [Download NK-N9H30 Quick Start Guide](https://www.nuvoton.com/resource-download.jsp?tp_GUID=UG1320210329155300)
 * [Download NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 * [Download Windows 32-bit 6-2017-q1-update ARM GCC](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads/6-2017-q1-update)
+
+##vedio
+web:https://v.youku.com/v_show/id_XNTg5MzY0ODQyNA==.html
